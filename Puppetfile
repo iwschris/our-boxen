@@ -33,4 +33,4 @@ github "sudo",       "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
-github "virtualbox", "4.2.12"
+github "virtualbox", "1.1.2"
