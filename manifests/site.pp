@@ -1,6 +1,7 @@
 require boxen::environment
 require homebrew
 require gcc
+include virtualbox
 
 Exec {
   group       => 'staff',
@@ -86,4 +87,3 @@ node default {
     target => $boxen::config::repodir
   }
 }
-include virtualbox
