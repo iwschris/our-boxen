@@ -1,7 +1,20 @@
 require boxen::environment
 require homebrew
 require gcc
+require xquartz
 include virtualbox
+include tunnelblick
+include chrome
+include iterm2::stable
+include python
+include dropbox
+include firefox
+include sequel_pro
+include zsh
+include wget
+include screen
+include istatmenus4
+include vagrant
 
 Exec {
   group       => 'staff',

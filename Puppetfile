@@ -33,4 +33,18 @@ github "sudo",       "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "xquartz", "1.1.0"
+github "osx", "1.3.0"
 github "virtualbox", "1.0.2"
+github "tunnelblick", "1.0.0"
+github "chrome", "1.1.0"
+github "iterm2", "1.0.2"
+github "python", "1.2.0"
+github "dropbox", "1.1.0"
+github "firefox", "1.0.6"
+github "sequel_pro", "1.0.0"
+github "zsh", "1.0.0"
+github "wget", "1.0.0"
+github "screen", "1.0.0"
+github "istatmenus4", "1.0.0"
+github "vagrant", "2.0.7"
