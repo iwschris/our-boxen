@@ -15,6 +15,7 @@ include wget
 include screen
 include istatmenus4
 include vagrant
+include colloquy
 
 Exec {
   group       => 'staff',
